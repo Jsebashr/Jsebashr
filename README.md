@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-:antenna: **Ingeniero en Telecomunicaciones** 
+:computer: **Ingeniero en Telecomunicaciones**
+
 :pencil: **Aprendiendo**
+
 :eyeglasses: **og**
 
 ### Vias de contacto
