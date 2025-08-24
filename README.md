@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+:antenna: **Ingeniero en Telecomunicaciones** 
+:pencil: **Aprendiendo**
+:eyeglasses: **og**
+
+### Vias de contacto
+![Website](https://img.shields.io/website?url=www.linkedin.com%2Fin%2Fjoan-sebastian-hernandez-romero-541551235)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Jsebashr/Jsebashr)
+
+
+
 <!--
 **Jsebashr/Jsebashr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
