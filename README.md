@@ -11,6 +11,10 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Jsebashr/Jsebashr)
 
+### :zap: Actividad
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 
 <!--
